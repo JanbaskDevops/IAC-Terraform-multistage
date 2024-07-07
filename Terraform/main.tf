@@ -13,7 +13,7 @@ resource "azurerm_app_service_plan" "example" {
   resource_group_name = azurerm_resource_group.example.name
   sku {
     tier = "Free"
-    size = "F1"
+    size = "S1"
   }
 }
 
