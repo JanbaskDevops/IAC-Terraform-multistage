@@ -1,2 +1,2 @@
 environment = "qa"
-location    = "East US
+location    = "East US"
